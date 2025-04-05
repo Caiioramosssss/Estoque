@@ -4,6 +4,6 @@
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
-  "description": "App de controle de estoque da fábrica de puffs",
+  "description": "Controle de estoque para fábrica de puffs",
   "icons": []
 }
