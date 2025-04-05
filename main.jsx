@@ -1,0 +1,1 @@
+// App principal será renderizado aqui
